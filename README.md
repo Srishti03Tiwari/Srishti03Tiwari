@@ -14,7 +14,6 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/srishti tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/srishtitiwari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srishtitiwari_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srishti_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srishti_tiwari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/srishti03tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srishti03tiwari" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srishtitiwari1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srishtitiwari1974" height="30" width="40" /></a>
