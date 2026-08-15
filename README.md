@@ -1,9 +1,8 @@
 ![1](https://user-images.githubusercontent.com/99731992/154839945-deb26e42-9248-4b09-a18f-95662e342efb.jpg)
 <h1 align="center">
-# 👋 Hi, I'm Srishti Tiwari
-<p>The above image is a UI mockup created by me!!</p>
+👋 Hi, I'm Srishti Tiwari
 </h1>
-
+<p>The above image is a UI mockup created by me!!</p>
 <h3 align="center">
   Java Backend Developer | Spring Boot | Microservices | Apache Kafka
 </h3>
