@@ -1,15 +1,11 @@
 ![1](https://user-images.githubusercontent.com/99731992/154839945-deb26e42-9248-4b09-a18f-95662e342efb.jpg)
 <h1 align="center">Hi 👋, I'm Srishti Tiwari</h1>
-<h3 align="center">Java Backend Developer || 🤖 Exploring Spring AI, hands-on! || Interested in UI Designing</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Kafka</h3>
 <p align="center">The above-displayed image is a mockup created by me!!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti03tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="srishti03tiwari" /> </p>
-
-- 🔭 I’m currently **Exploring AI & Generative AI, building projects to sharpen my skills**
-
-- 🌱 Actively improving in **DSA & problem-solving**
-
-- 💬 Ask me about **C++, Java, SpringBoot, Restful APIs**
+I'm a Backend Developer with 3 years of experience, currently focused on building scalable backend applications using Java, Spring Boot, Microservices, REST APIs, SQL, and Apache Kafka.
+I enjoy solving problems, designing backend systems, and exploring how modern technologies like Generative AI, RAG, and Agentic AI can be integrated into real-world applications.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
