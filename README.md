@@ -1,5 +1,8 @@
 ![1](https://user-images.githubusercontent.com/99731992/154839945-deb26e42-9248-4b09-a18f-95662e342efb.jpg)
+<h1 align="center">
 # 👋 Hi, I'm Srishti Tiwari
+<p>The above image is a UI mockup created by me!!</p>
+</h1>
 
 <h3 align="center">
   Java Backend Developer | Spring Boot | Microservices | Apache Kafka
@@ -28,7 +31,6 @@ Currently, I'm strengthening my expertise in **Java Backend Development, Microse
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </p>
 
 **Java • C++ • SQL**
@@ -154,33 +156,8 @@ I regularly practice **Data Structures & Algorithms** and am currently transitio
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://leetcode.com/srishti03tiwari" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/srishti_tiwari" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/srishtitiwari1974" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srishti03tiwari&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishti03tiwari&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 <p align="center">
   ⭐ <i>Building. Learning. Solving. Improving.</i>
