@@ -110,7 +110,7 @@ A modern responsive website designed using a **Glassmorphism-inspired UI**, focu
 - Clean and minimal interface
 - Mobile-friendly design
 
-🔗 [View Project](https://github.com/Srishti03Tiwari/Glassmorphism-themed-Website)
+🔗 [View Project](https://srishti03tiwari.github.io/Glassmorphism-themed-Website/)
 
 ---
 
