@@ -2,7 +2,7 @@
 <h1 align="center">
 👋 Hi, I'm Srishti Tiwari
 </h1>
-<p>The above image is a UI mockup created by me!!</p>
+<p align="center">The above image is a UI mockup created by me!!</p>
 <h3 align="center">
   Java Backend Developer | Spring Boot | Microservices | Apache Kafka
 </h3>
