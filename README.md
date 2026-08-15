@@ -1,21 +1,187 @@
 ![1](https://user-images.githubusercontent.com/99731992/154839945-deb26e42-9248-4b09-a18f-95662e342efb.jpg)
-<h1 align="center">Hi 👋, I'm Srishti Tiwari</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Kafka</h3>
-<p align="center">The above-displayed image is a mockup created by me!!</p>
+# 👋 Hi, I'm Srishti Tiwari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti03tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="srishti03tiwari" /> </p>
-I'm a Backend Developer with 3 years of experience, currently focused on building scalable backend applications using Java, Spring Boot, Microservices, REST APIs, SQL, and Apache Kafka.
-I enjoy solving problems, designing backend systems, and exploring how modern technologies like Generative AI, RAG, and Agentic AI can be integrated into real-world applications.
+<h3 align="center">
+  Java Backend Developer | Spring Boot | Microservices | Apache Kafka
+</h3>
 
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/srishti tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti tiwari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srishti_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srishti_tiwari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srishti03tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srishti03tiwari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srishtitiwari1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srishtitiwari1974" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=srishti03tiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti03tiwari&" alt="srishti03tiwari" /></p>
+## 👩‍💻 About Me
+
+I'm a **Backend Developer with 3 years of experience**, focused on building scalable and reliable backend applications using **Java, Spring Boot, Microservices, REST APIs, SQL, and Apache Kafka**.
+
+I enjoy solving problems, designing backend systems, and exploring modern technologies such as **Generative AI, RAG, and Agentic AI** to build practical real-world solutions.
+
+Currently, I'm strengthening my expertise in **Java Backend Development, Microservices, Kafka, System Design, and Data Structures & Algorithms**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+**Java • C++ • SQL**
+
+### 🚀 Backend & Frameworks
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Apache Kafka"/>
+</p>
+
+**Spring Boot • Spring MVC • Spring Data JPA • Hibernate • Microservices • REST APIs • Apache Kafka**
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</p>
+
+**Oracle • MySQL • SQL**
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
+
+**Git • GitHub • Docker • Postman • Swagger • Kibana • Jira**
+
+### 🤖 AI & GenAI
+
+**Generative AI • RAG • LLMs • LangChain • FAISS • Vector Search • Agentic AI**
+
+---
+
+## 🚀 Projects
+
+### 🔹 GenAI SQL Assistant
+
+An AI-powered application that allows users to interact with databases using **natural language**.
+
+**Technologies:**
+
+`Python` `LLM` `RAG` `FAISS` `SQL` `Streamlit`
+
+**Features:**
+
+- Natural language to SQL generation
+- RAG-based schema and context retrieval
+- FAISS vector search
+- LLM-powered SQL generation
+- Database query execution
+- Query result export
+- Interactive user interface
+
+🔗 [View Project](https://github.com/Srishti03Tiwari/genai-sql-assistant)
+
+---
+
+### 🔹 Glassmorphism Themed Website
+
+A modern responsive website designed using a **Glassmorphism-inspired UI**, focusing on clean visuals, modern layouts, and interactive frontend components.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+**Features:**
+
+- Glassmorphism UI design
+- Responsive layout
+- Modern animations and interactions
+- Clean and minimal interface
+- Mobile-friendly design
+
+🔗 [View Project](https://github.com/Srishti03Tiwari/Glassmorphism-themed-Website)
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Advanced Java
+- 🌱 Spring Boot & Spring Ecosystem
+- 🔗 Microservices Architecture
+- 📨 Apache Kafka & Event-Driven Architecture
+- 🏗️ System Design
+- 💡 Data Structures & Algorithms in Java
+- 🤖 Generative AI & RAG
+- 🧠 Agentic AI
+
+---
+
+## 🧩 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and am currently transitioning my DSA practice from **C++ to Java**.
+
+<p align="center">
+  <a href="https://leetcode.com/srishti03tiwari">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/srishti_tiwari">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/srishtitiwari1974">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/srishti-tiwari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://leetcode.com/srishti03tiwari" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/srishti_tiwari" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/srishtitiwari1974" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srishti03tiwari&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishti03tiwari&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Building. Learning. Solving. Improving.</i>
+</p>
